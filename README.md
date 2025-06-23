@@ -9,7 +9,7 @@ Example
 - iPhone SE
 - iPhone XR
 - iphone 15
--
+- iphone 16
 -
 -
 -
